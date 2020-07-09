@@ -1,16 +1,14 @@
-### Hi there 👋
+![Hi there 👋](https://res.cloudinary.com/importdata/image/upload/v1594310913/YT_Banner_rkjidf.png)
 
-<!--
-**importdata/importdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! Welcome to my GitHub page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on these platforms
+
+🔗 YouTube: https://www.youtube.com/c/ImportData1
+
+🔗 Medium: https://medium.com/@importdata
+
+🔗 Twitter: https://twitter.com/ImportData1
+
+🔗 LinkedIn: https://www.linkedin.com/in/jaemin-lee-771705151/
