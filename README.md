@@ -5,4 +5,4 @@
 
 Connect with me on these platforms:
 
-[![YouTube](https://cdn.emojidex.com/emoji/xhdpi/YouTube.png "YouTube")](https://www.youtube.com/c/ImportData1) [Medium](https://medium.com/@importdata) [![Twitter](https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png)](https://twitter.com/ImportData1) [LinkedIn](https://www.linkedin.com/in/jaemin-lee-771705151/) [Kaggle](https://www.kaggle.com/importdata)
+[![YouTube](https://cdn.emojidex.com/emoji/xhdpi/YouTube.png "YouTube")](https://www.youtube.com/c/ImportData1) [Medium](https://medium.com/@importdata) [![Twitter](https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png =20x10)](https://twitter.com/ImportData1) [LinkedIn](https://www.linkedin.com/in/jaemin-lee-771705151/) [Kaggle](https://www.kaggle.com/importdata)
