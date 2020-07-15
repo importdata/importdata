@@ -5,7 +5,7 @@
 
 Connect with me on these platforms:
 
-<a href="https://www.youtube.com/c/ImportData1"><img src="https://1000logos.net/wp-content/uploads/2017/05/logo-youtube.png" alt="drawing" width="70"/>
+<a href="https://www.youtube.com/c/ImportData1"><img src="https://annezontheweb.com/var/www/vhosts/annezontheweb.com/httpdocs/wp-content/uploads/2020/03/flat1000x1000075f.u7-1000x300.jpg" alt="drawing" width="70"/>
 
 <a href="https://medium.com/@importdata"><img src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98-970-80.jpg" alt="drawing" width="70"/>
 
