@@ -9,6 +9,6 @@ Connect with me on these platforms:
 
 [Medium](https://medium.com/@importdata)
 
-<img src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png" alt="drawing" width="200"/>[](https://twitter.com/ImportData1) 
+<a href="https://twitter.com/ImportData1"><img src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png" alt="drawing" width="20"/>
 
 [LinkedIn](https://www.linkedin.com/in/jaemin-lee-771705151/) [Kaggle](https://www.kaggle.com/importdata)
