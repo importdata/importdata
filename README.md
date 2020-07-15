@@ -5,4 +5,4 @@
 
 Connect with me on these platforms:
 
-🔗 ![](https://cdn.emojidex.com/emoji/seal/YouTube.png)[YouTube](https://www.youtube.com/c/ImportData1) 🔗 [Medium](https://medium.com/@importdata) 🔗 [Twitter](https://twitter.com/ImportData1) 🔗 [LinkedIn](https://www.linkedin.com/in/jaemin-lee-771705151/) 🔗 [Kaggle](https://www.kaggle.com/importdata)
+🔗 ![YouTube](https://cdn.emojidex.com/emoji/xhdpi/YouTube.png "YouTube")[YouTube](https://www.youtube.com/c/ImportData1) 🔗 [Medium](https://medium.com/@importdata) 🔗 [Twitter](https://twitter.com/ImportData1) 🔗 [LinkedIn](https://www.linkedin.com/in/jaemin-lee-771705151/) 🔗 [Kaggle](https://www.kaggle.com/importdata)
